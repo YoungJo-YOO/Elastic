@@ -26,7 +26,7 @@
 <img src="https://swai.smu.ac.kr/data/editor/2204/thumb-2c7fe091646999fab0865471a60c353d_1649125902_2038_1000x1416.jpg" width="300">
 
 ### TOP 8팀 선발
-<img src="https://swai.smu.ac.kr/data/editor/2205/thumb-d4d8090bc6be95fa35012b1e30c91ee8_1652172552_4639_1000x1000.jpg" width="400">
+<img src="https://swai.smu.ac.kr/data/editor/2205/d4d8090bc6be95fa35012b1e30c91ee8_1652172552_4639.jpg" width="400">
 
 ## 서비스 소개📃
 |          |                        실제 데이터                        |                        상관관계                        |                    가격 예측                     |
