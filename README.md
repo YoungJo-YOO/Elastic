@@ -18,8 +18,7 @@
 ## 프로젝트 설명💬
 - 기후와 주요요인 중 실제로 농산물의 가격에 영향을 많이 주는 요소를 찾고, 그 요소들로 농산물의 가격을 예측한다
 
-<img src="https://user-images.githubusercontent.com/79524109/180176153-066b0c52-b9bd-40e4-ac93-471ab8381729.png" width="600">
-<img src="https://user-images.githubusercontent.com/79524109/180175014-51c69ef2-3cc8-48ee-8dd2-8eb4461e4652.png" width="600"><img src="https://user-images.githubusercontent.com/79524109/180168553-714a8a8d-a8f6-45ac-9e54-0cdab802c9f8.png" width="400">
+<img src="https://user-images.githubusercontent.com/79524109/180176153-066b0c52-b9bd-40e4-ac93-471ab8381729.png" width="900">
 
 - 실제로 가격에 영향을 많이주는 요소가 무엇인지를 분석
 - 상관계수가 높은 요인들로 농산물의 가격예측
