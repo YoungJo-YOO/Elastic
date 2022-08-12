@@ -41,7 +41,7 @@
 <img src="https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/MainDashboard.PNG?raw=true" width="800">
 
  고추 | 배추 | 마늘 | 양파 | 무
- :-----: | :-----: | :-----: | :-----: | :-----:
+ :------------------------------: | :--------------------------: | :-------------------------------: | :----------------------: | :-----------------------------------:
  |<img src="[[https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/MainDashboard.PNG?raw=true](https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EA%B3%A0%EC%B6%94.PNG?raw=true)](https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EB%B0%B0%EC%B6%94.PNG?raw=true)" width="200">|
 <img src="[[https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/MainDashboard.PNG?raw=true](https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EA%B3%A0%EC%B6%94.PNG?raw=true)](https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EB%B0%B0%EC%B6%94.PNG?raw=true)" width="200">|
 <img src="[https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/MainDashboard.PNG?raw=true](https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EB%A7%88%EB%8A%98.PNG?raw=true)" width="200">|
