@@ -42,14 +42,14 @@
 
 ###
 
-|고추|배추|마늘|양파|무|상관계수와 가격예측
-|:--:|:--:|:--:|:--:|:--:|:--:
+|고추|배추|마늘|양파|무|상관계수와 가격예측|
+|:--:|:--:|:--:|:--:|:--:|:--:|
 |<img width="200" src="https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EA%B3%A0%EC%B6%94.PNG?raw=true">
 |<img width="200" src="https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EB%B0%B0%EC%B6%94.PNG?raw=true">
 |<img width="200" src="https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EB%A7%88%EB%8A%98.PNG?raw=true">
 |<img width="200" src="https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EC%96%91%ED%8C%8C.PNG?raw=true">
 |<img width="200" src="https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EB%AC%B4.PNG?raw=true">
-|<img width="https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EC%83%81%EA%B3%BC%EA%B4%80%EA%B3%84%EC%99%80%20%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1.PNG?raw=true">
+|<img width="https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EC%83%81%EA%B3%BC%EA%B4%80%EA%B3%84%EC%99%80%20%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1.PNG?raw=true">|
 
 
 ## 공모전 참여
