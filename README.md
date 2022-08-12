@@ -37,6 +37,11 @@
 - 실제로 가격에 영향을 많이주는 요소가 무엇인지를 분석
 - 상관계수가 높은 요인들로 농산물의 가격예측
 
+### 최종 키바나 대시보드🖥️
+<img src="https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/MainDashboard.PNG?raw=true" width="300">
+
+
+
 ## 공모전 참여
 <img src="https://swai.smu.ac.kr/data/editor/2204/thumb-2c7fe091646999fab0865471a60c353d_1649125902_2038_1000x1416.jpg" width="300">
 
