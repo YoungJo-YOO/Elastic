@@ -44,7 +44,7 @@
 
 |고추|배추|마늘|양파|무|
 |:--:|:--:|:--:|:--:|:--:|
-|<img width="400" src="[https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EA%B3%A0%EC%B6%94.PNG?raw=true]>
+|<img width="400" src="[https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EA%B3%A0%EC%B6%94.PNG?raw=true]">
 |<img width="200" src="[[https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/MainDashboard.PNG?raw=true](https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EA%B3%A0%EC%B6%94.PNG?raw=true)](https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EB%B0%B0%EC%B6%94.PNG?raw=true)">|
 <img width="200" src="[[https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/MainDashboard.PNG?raw=true](https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EA%B3%A0%EC%B6%94.PNG?raw=true)](https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EB%B0%B0%EC%B6%94.PNG?raw=true)">|
 <img width="200" src="[https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/MainDashboard.PNG?raw=true](https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EB%A7%88%EB%8A%98.PNG?raw=true)">|
