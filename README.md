@@ -69,4 +69,4 @@
 (https://github.com/0csong/Elastic/tree/main/LSTM%EA%B2%B0%EA%B3%BC)
 
 ## 엘라스틱 시각화
-
+(https://github.com/0csong/Elastic/blob/main/%EC%82%AC%EC%A7%84/%EC%97%AC%EA%B8%B0%EC%96%B4%EB%8D%B0%20%EC%B5%9C%EC%A2%85.pptx)
