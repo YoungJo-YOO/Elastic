@@ -38,19 +38,19 @@
 - 상관계수가 높은 요인들로 농산물의 가격예측
 
 ## 공모전 참여
-<img src="https://swai.smu.ac.kr/data/editor/2204/thumb-2c7fe091646999fab0865471a60c353d_1649125902_2038_1000x1416.jpg" width="400">
+<img src="https://github.com/0csong/Elastic/blob/main/%EC%82%AC%EC%A7%84/thumb-2c7fe091646999fab0865471a60c353d_1649125902_2038_1000x1416.jpg?raw=true" width="400">
 
 ### TOP 8팀 선발
-<img src="https://swai.smu.ac.kr/data/editor/2208/thumb-a8696f697b588a8bc6d2f283d03c70ce_1659333742_5297_1000x1416.png" width="400">
+<img src="https://github.com/0csong/Elastic/blob/main/%EC%82%AC%EC%A7%84/top8.png?raw=true" width="400">
 
 ### TOP 8팀발표
-<img src="https://www.smu.ac.kr/cms/plugin/editorImage.do?EwBmwehAOCDkCeArAygDQLYDEDSaA2AogIYAOAWgOZoAepA9oQHRKmVA%20" width="400">
+<img src="https://github.com/0csong/Elastic/blob/main/%EC%82%AC%EC%A7%84/NyjSXmFKXlEapZgXxpoE.jpg?raw=true" width="400">
 
 
 ## 서비스 소개📃
 |          |                        대시보드 구성                        |                        실제 데이터 시각화                        |                    상관관계와 가격예측                     |
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 결과 | <img width="400" src="https://www.kaggleusercontent.com/kf/100631179/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..FLZmtdO7kGg1QZAvpStkdg.ALqaRbSGDRGjS01UlnVIASN1KdVmI0LhMEisC2SL6l1tKkf7vjEDO3NJP98EheSj8t-IZSmP1ElwwrGC_BS7zkuOZ83hHxEQH_vfhzDNT654aCpaDqvJEKPOFnQUwaw4vfZBQRd_fxlzoUWLw4oPS2x9QnwPq7KhdyrSVR1UWKvXgzfqsA0AVKkkZcg4W1sIMjIyGVBMjWP4NZksqLYBJaBaFakuCRIp46JHAI9zxH2ByPj1kh98KmX2z97kGTYVtZ1TetXRwhYXhNRkeEwBqUiJ2olPsW5UcXWl3m_nl9khjSg1zUS8eiC0wVrwZRysA6Csnd1JT44lpYqVmgWQ-YKUH923T9Ur6Cbqe6qSYkJQSvs0nKKt37LJ71hZL5uZB3uk4Y0xAI9OiJylPfDf6__0xckLc9MKiIDtMYEs7DX3Zg3LYwXG7EXPXBKkOvpWQJqKVmMFXIX5oBAcEmNQaBv8qiBBE46bcIhXtE9mXFZG-kjx1rSoq2b25mVwFHg-xelWC_Gau4DAyVOl9h-XcyIyGF1Wjo4mcAJiZWDHj1cJhmZ8KJ3RQpawlmhXfzpSQqjTdL3oLPOs06cJrPSORqFr3SzFOEXLq1gUZXwPPbsxbuKCjTGzVaUcTdZOY7GxBUvNWj2AsCVQiYVJWEx4GA.t8x2brLjSqPkTDWlCwejOQ/__results___files/__results___3_1.png"> | <img width="400" src="https://user-images.githubusercontent.com/79524109/180171477-29e65d90-b107-4ae6-b65d-ba3ccd4061ce.png"> | <img width="400" src="https://www.kaggleusercontent.com/kf/100631179/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..FLZmtdO7kGg1QZAvpStkdg.ALqaRbSGDRGjS01UlnVIASN1KdVmI0LhMEisC2SL6l1tKkf7vjEDO3NJP98EheSj8t-IZSmP1ElwwrGC_BS7zkuOZ83hHxEQH_vfhzDNT654aCpaDqvJEKPOFnQUwaw4vfZBQRd_fxlzoUWLw4oPS2x9QnwPq7KhdyrSVR1UWKvXgzfqsA0AVKkkZcg4W1sIMjIyGVBMjWP4NZksqLYBJaBaFakuCRIp46JHAI9zxH2ByPj1kh98KmX2z97kGTYVtZ1TetXRwhYXhNRkeEwBqUiJ2olPsW5UcXWl3m_nl9khjSg1zUS8eiC0wVrwZRysA6Csnd1JT44lpYqVmgWQ-YKUH923T9Ur6Cbqe6qSYkJQSvs0nKKt37LJ71hZL5uZB3uk4Y0xAI9OiJylPfDf6__0xckLc9MKiIDtMYEs7DX3Zg3LYwXG7EXPXBKkOvpWQJqKVmMFXIX5oBAcEmNQaBv8qiBBE46bcIhXtE9mXFZG-kjx1rSoq2b25mVwFHg-xelWC_Gau4DAyVOl9h-XcyIyGF1Wjo4mcAJiZWDHj1cJhmZ8KJ3RQpawlmhXfzpSQqjTdL3oLPOs06cJrPSORqFr3SzFOEXLq1gUZXwPPbsxbuKCjTGzVaUcTdZOY7GxBUvNWj2AsCVQiYVJWEx4GA.t8x2brLjSqPkTDWlCwejOQ/__results___files/__results___21_0.png"> |
+| 결과 | <img width="400" src="https://github.com/0csong/Elastic/blob/main/%EC%82%AC%EC%A7%84/%EA%B7%B8%EB%A6%BC3.png?raw=true"> | <img width="400" src="https://github.com/0csong/Elastic/blob/main/%EC%82%AC%EC%A7%84/%EA%B3%A0%EC%B6%94.png?raw=true"> | <img width="400" src="https://github.com/0csong/Elastic/blob/main/%EC%82%AC%EC%A7%84/%EC%83%81%EA%B3%BC%EA%B4%80%EA%B3%84%EC%99%80%20%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1.PNG?raw=true"> |
 
 
 <br>
