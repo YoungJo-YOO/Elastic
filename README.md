@@ -38,10 +38,14 @@
 - 상관계수가 높은 요인들로 농산물의 가격예측
 
 ## 공모전 참여
-<img src="https://swai.smu.ac.kr/data/editor/2204/thumb-2c7fe091646999fab0865471a60c353d_1649125902_2038_1000x1416.jpg" width="300">
+<img src="https://swai.smu.ac.kr/data/editor/2204/thumb-2c7fe091646999fab0865471a60c353d_1649125902_2038_1000x1416.jpg" width="400">
 
 ### TOP 8팀 선발
-<img src="https://swai.smu.ac.kr/data/editor/2205/d4d8090bc6be95fa35012b1e30c91ee8_1652172552_4639.jpg" width="400">
+<img src="https://swai.smu.ac.kr/data/editor/2208/thumb-a8696f697b588a8bc6d2f283d03c70ce_1659333742_5297_1000x1416.png" width="400">
+
+### TOP 8팀발표
+<img src="https://www.smu.ac.kr/cms/plugin/editorImage.do?EwBmwehAOCDkCeArAygDQLYDEDSaA2AogIYAOAWgOZoAepA9oQHRKmVA%20" width="400">
+
 
 ## 서비스 소개📃
 |          |                        실제 데이터                        |                        상관관계                        |                    가격 예측                     |
