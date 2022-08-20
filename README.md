@@ -15,26 +15,26 @@
 |[사호진](https://github.com/Hojin-Sa)|팀원|
 |[유영조](https://github.com/YoungJo-Yoo)|팀원|
 
-## 프로젝트 설명💬
+## 💬프로젝트 설명
 - 기후와 주요요인 중 실제로 농산물의 가격에 영향을 많이 주는 요소를 찾고, 그 요소들로 농산물의 가격을 예측한다
 
-### 선정 근거 
+### 💬선정 근거 
 농작물에 따라 생산량,수입량이 다 다르기에 국내요인 뿐만 아니라 외부요인도 고려가 필요하다 판단함
 <img src="https://github.com/0csong/Elastic/blob/main/%EC%82%AC%EC%A7%84/%EC%84%A0%EC%A0%95%EA%B7%BC%EA%B1%B0.png?raw=true" width="900">
 
-### 요소 선정
+### 💬요소 선정
 기후요소(기온, 강수량, 적설량, 일사량),유가, 전년도 수입량
 
-### 데이터 전처리
+### 💬데이터 전처리
 <img src="https://user-images.githubusercontent.com/79524109/180176481-919db0b6-2637-46b1-b4b3-f10d92d0c80a.png" width="900">
 
-### 상관계수 도출
+### 💬상관계수 도출
 <img src="https://user-images.githubusercontent.com/79524109/180176153-066b0c52-b9bd-40e4-ac93-471ab8381729.png" width="900">
 
-### LSTM을 통한 농산물 가격 예측
+### 💬LSTM을 통한 농산물 가격 예측
 <img width="800" src="https://www.kaggleusercontent.com/kf/100631179/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..-3-BkdtGJLXuhgH7iESE9Q.sMVkvlgbe2p4x7xUsBhQCI5JmRo4q4zeKAOwPDkVMmpSbS-uYDfqEqUTmcrMvp-TaebrAT0U2HYqqRF1ykPVVu-3hoZqxQScT4SmzQPoiGWHYwn4__l4yanPAkW2MwusQAS4H5xpyZNwmgMNLrS87mQHVRiCLAgHVcLAHeTxXbxCVijMq7dWdmqMJoy2ofXooE8avf7wxJj6JRxAL4RAWBD6TpRl0y_BGNx3A9UVpERFp7nMdtUejc2suCB7_oeUhM6A6rQqssgtNP9E3lQLzBdJ8uEHc58RdDjc6FmTrinKEnHulqMkqXwnEH0FT9rTxkLhHcIo1Zm_9S9LIw0dxhfyZNhZpTnc4ZjsXb5-kADLn4pd0aaIfI0AVzBg563WDao42N2_wdl4fZ8OMxMqaHVkzOlR8yjKlAKp-9wYMo9VE-E3O9nLjFSgeLGrrpmNMShO_lBvscM_nXOkFpXkHOO44ORD0AgNloDnqzqSeGUkUDjE4AmkwtoEsB0HjpbyFr6NNk5gZfNU5CKGnMQiEezWL-2tek3h1z7lKVjJqbXNJ5iuBjRdjDygdzDZr_U8Qf3m1N-h0Y3-WdO-TBxC-CXj2rhmf5azP8zR6dRZ5bgZm1erbCDCZSCPY3dkL4aw3779iegmU8zOUtQNG-41AQ.IPhQJA6waxwOUIKvpZ6-Pg/__results___files/__results___21_0.png">
 
-### 프로젝트 목표
+### 💬프로젝트 목표
 - 실제로 가격에 영향을 많이주는 요소가 무엇인지를 분석
 - 상관계수가 높은 요인들로 농산물의 가격예측
 
