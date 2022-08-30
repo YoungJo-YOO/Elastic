@@ -31,8 +31,24 @@
 ### 💬상관계수 도출
 <img src="https://user-images.githubusercontent.com/79524109/180176153-066b0c52-b9bd-40e4-ac93-471ab8381729.png" width="900">
 
-### 💬LSTM을 통한 농산물 가격 예측
-<img width="800" src="https://www.kaggleusercontent.com/kf/100631179/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..-3-BkdtGJLXuhgH7iESE9Q.sMVkvlgbe2p4x7xUsBhQCI5JmRo4q4zeKAOwPDkVMmpSbS-uYDfqEqUTmcrMvp-TaebrAT0U2HYqqRF1ykPVVu-3hoZqxQScT4SmzQPoiGWHYwn4__l4yanPAkW2MwusQAS4H5xpyZNwmgMNLrS87mQHVRiCLAgHVcLAHeTxXbxCVijMq7dWdmqMJoy2ofXooE8avf7wxJj6JRxAL4RAWBD6TpRl0y_BGNx3A9UVpERFp7nMdtUejc2suCB7_oeUhM6A6rQqssgtNP9E3lQLzBdJ8uEHc58RdDjc6FmTrinKEnHulqMkqXwnEH0FT9rTxkLhHcIo1Zm_9S9LIw0dxhfyZNhZpTnc4ZjsXb5-kADLn4pd0aaIfI0AVzBg563WDao42N2_wdl4fZ8OMxMqaHVkzOlR8yjKlAKp-9wYMo9VE-E3O9nLjFSgeLGrrpmNMShO_lBvscM_nXOkFpXkHOO44ORD0AgNloDnqzqSeGUkUDjE4AmkwtoEsB0HjpbyFr6NNk5gZfNU5CKGnMQiEezWL-2tek3h1z7lKVjJqbXNJ5iuBjRdjDygdzDZr_U8Qf3m1N-h0Y3-WdO-TBxC-CXj2rhmf5azP8zR6dRZ5bgZm1erbCDCZSCPY3dkL4aw3779iegmU8zOUtQNG-41AQ.IPhQJA6waxwOUIKvpZ6-Pg/__results___files/__results___21_0.png">
+### LSTM을 통한 농산물 가격 예측
+
+<img width="800" src="https://www.kaggleusercontent.com/kf/100631179/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..FLZmtdO7kGg1QZAvpStkdg.ALqaRbSGDRGjS01UlnVIASN1KdVmI0LhMEisC2SL6l1tKkf7vjEDO3NJP98EheSj8t-IZSmP1ElwwrGC_BS7zkuOZ83hHxEQH_vfhzDNT654aCpaDqvJEKPOFnQUwaw4vfZBQRd_fxlzoUWLw4oPS2x9QnwPq7KhdyrSVR1UWKvXgzfqsA0AVKkkZcg4W1sIMjIyGVBMjWP4NZksqLYBJaBaFakuCRIp46JHAI9zxH2ByPj1kh98KmX2z97kGTYVtZ1TetXRwhYXhNRkeEwBqUiJ2olPsW5UcXWl3m_nl9khjSg1zUS8eiC0wVrwZRysA6Csnd1JT44lpYqVmgWQ-YKUH923T9Ur6Cbqe6qSYkJQSvs0nKKt37LJ71hZL5uZB3uk4Y0xAI9OiJylPfDf6__0xckLc9MKiIDtMYEs7DX3Zg3LYwXG7EXPXBKkOvpWQJqKVmMFXIX5oBAcEmNQaBv8qiBBE46bcIhXtE9mXFZG-kjx1rSoq2b25mVwFHg-xelWC_Gau4DAyVOl9h-XcyIyGF1Wjo4mcAJiZWDHj1cJhmZ8KJ3RQpawlmhXfzpSQqjTdL3oLPOs06cJrPSORqFr3SzFOEXLq1gUZXwPPbsxbuKCjTGzVaUcTdZOY7GxBUvNWj2AsCVQiYVJWEx4GA.t8x2brLjSqPkTDWlCwejOQ/__results___files/__results___21_0.png">
+
+
+### 최종 키바나 대시보드 화면🖥️
+<img src="https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/MainDashboard.PNG?raw=true" width="800">
+
+###
+
+|고추|배추|마늘|
+|:--:|:--:|:--:|
+|<img width="300" src="https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EA%B3%A0%EC%B6%94.PNG?raw=true">|<img width="300" src="https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EB%B0%B0%EC%B6%94.PNG?raw=true">|<img width="300" src="https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EB%A7%88%EB%8A%98.PNG?raw=true">
+
+|양파|무|상관계수와 가격예측|
+|:--:|:--:|:--:|
+|<img width="300" src="https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EC%96%91%ED%8C%8C.PNG?raw=true">|<img width="300" src="https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EB%AC%B4.PNG?raw=true">|<img width= "300" src="https://github.com/YoungJo-YOO/Elastic/blob/main/Kibana/%EC%83%81%EA%B3%BC%EA%B4%80%EA%B3%84%EC%99%80%20%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1.PNG?raw=true">|
+
 
 ### 💬프로젝트 목표
 - 실제로 가격에 영향을 많이주는 요소가 무엇인지를 분석
